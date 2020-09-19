@@ -1,0 +1,8 @@
+Нужны файлы "angular.json", "tsconfig.json", "package.json"
+
+cd C:\Users\Pavlo\Desktop\проект
+npm install
+npm start
+
+
+npm install -g @angular/cli
